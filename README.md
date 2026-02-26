@@ -2,9 +2,9 @@
 An endless combat game where you fight waves of enemies.
 
 ## Specifications 
-Tools used: IntelliJ IDEA
-JDK: GraalVM JDK 21 (21.0.7 - VM 23.1.7)
-Java Version: 21
+Tools used: IntelliJ IDEA  
+JDK: GraalVM JDK 21 (21.0.7 - VM 23.1.7)  
+Java Version: 21  
 
 ## Demo 
 The game is designed to be a roguelike experience. You begin on a tutorial map where you learn the controls and core mechanics. After completing the tutorial, you enter the main game, where all levels are randomly generated and may repeat.  
